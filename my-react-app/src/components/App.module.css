@@ -1,0 +1,14 @@
+.display{
+    display: flex;
+    justify-content: space-between;
+}
+.lorem{
+    margin-top: 30px;
+}
+
+.details_cnt{
+    background-color: aqua;
+    position: absolute;
+    left: 800px;
+    bottom: 430px;
+}
